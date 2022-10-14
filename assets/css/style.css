@@ -26,7 +26,7 @@ Author URI: http://xpeedstudio.com
 html,
 body {
   /*background:url(../images/bodybg.png) repayet-y;*/
-  background-image: url("../images/bodybg.png");
+  /* background-image: url("../images/bodybg.png"); */
   background-repeat: repeat-y;
   font-size: 16px;
   color: #797979;
